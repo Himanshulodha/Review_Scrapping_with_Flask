@@ -5386,3 +5386,61 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:31] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'pocom3', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'GooD'}, {'Product': 'pocom3', 'Name': 'pranav prabhat', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'After 20 days use Camea quality not bad Display quality good smoothPerformance was good Battery life amazing'}, {'Product': 'pocom3', 'Name': 'Prashanth  Sunagar', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': "Camara normal don't like. Gaming bgmi good. Apps skips from running some times. Budget phone mid range. Overall quite better in that nge"}, {'Product': 'pocom3', 'Name': 'Vishal Kumar Vishal Kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Supar  mobile 😎🥰'}, {'Product': 'pocom3', 'Name': 'Rasika Surve', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "Best in Budget category.... that's it don't expect more😪"}, {'Product': 'pocom3', 'Name': 'Iresh Wante', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': '📱Mobile colour so beauty full'}, {'Product': 'pocom3', 'Name': 'B Subramanyam Achary', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Cheapest 5G smartphone ever.Best camera mode availableCharging speed is very good. 90 percent in 1hour.Screen refresh rate is best.Phone is handy.'}, {'Product': 'pocom3', 'Name': 'Mahesh  Patil', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good'}, {'Product': 'pocom3', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Yeah nice phone for Smooth use🔥🔥'}, {'Product': 'pocom3', 'Name': 'Chandrahas Sendane', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Good'}, {'Product': 'pocom3', 'Name': 'Chandrahas Sendane', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good'}]
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:42] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.'}, {'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome Camera'}, {'Product': 'iphone12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date 💕'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}, {'Product': 'iphone12', 'Name': 'Hariprasad b', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Performance is soooo fastEspecially faceid detection is awesome even in darkNo need to carry an dslr .this is more than enough attaching puc taken by this'}, {'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super'}, {'Product': 'iphone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love it'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}]
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:56] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:31:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsung', 'Name': 'Rahul Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this price'}, {'Product': 'samsung', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.'}, {'Product': 'samsung', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good👍'}, {'Product': 'samsung', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.'}, {'Product': 'samsung', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.'}, {'Product': 'samsung', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsung'}, {'Product': 'samsung', 'Name': 'Prakriti Srivastava', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': "Bahut accha tv hai aur installation bhi kafi accha kiye hai bhaiya bahut hi acchA nature hai thnkuu bhaiya and Samsung company i'm very happy"}, {'Product': 'samsung', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'samsung', 'Name': 'Swaroop', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Most valuable and Worth Tv 1.video - superb2.sound - Amplifier sound superb'}, {'Product': 'samsung', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}, {'Product': 'samsung', 'Name': 'Velu P', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}]
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'iphone14', 'Name': 'Vaish Khan', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Ultimate'}, {'Product': 'iphone14', 'Name': 'SUNNY KUMAR', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'I used iPhone 12 mini and now upgraded with iPhone 14. Camera quality is awesome.Full day battery backup.Super Retina display with high dynamic range is awesome.In terms of camera and battery life is big upgrade for me.'}, {'Product': 'iphone14', 'Name': 'Mainak Das', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Awesome phone with amazing features'}, {'Product': 'iphone14', 'Name': 'Mainak Das', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome phone with amazing features'}]
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Aug/2023 12:40:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.36:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
